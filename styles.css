@@ -110,12 +110,11 @@ h1 {
 img {
     width: 100%;
     height: auto;
-    display: none;
-
 }
 
 .logo {
     position: relative;
     display: none;
+    
 }
 
